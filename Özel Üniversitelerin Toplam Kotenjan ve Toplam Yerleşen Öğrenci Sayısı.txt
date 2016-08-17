@@ -1,0 +1,5 @@
+...::: Özel Üniversitelerin Toplam Kotenjan ve Toplam Yerleþen Öðrenci Sayýsý :::...
+Toplam Kontenjan               : 2519.
+Toplam Yerleþen Öðrenci Sayýsý : 1990.
+Boþta Kalan Kontejan Sayýsý    : 529.
+

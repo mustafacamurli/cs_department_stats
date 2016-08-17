@@ -1,0 +1,253 @@
+...::: Üniversitelerin Baþarý Sýrasý (Taban Puanýna Göre) :::...
+1    - KOÇ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (%100 Burslu)                   (Ýngilizce)  : 526.027530
+2    - BOÐAZÝÇÝ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 524.063990
+3    - ÝHSAN DOÐRAMACI BÝLKENT ÜNÝVERSÝTESÝ (ANKARA)  - Mühendislik Fakültesi                                    (%100 Burslu)                   (Ýngilizce)  : 517.344250
+4    - ORTA DOÐU TEKNÝK ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                                            (Ýngilizce)  : 505.773220
+5    - ÝSTANBUL TEKNÝK ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Fakültesi                                                                            (Ýngilizce)  : 502.704640
+6    - ÝHSAN DOÐRAMACI BÝLKENT ÜNÝVERSÝTESÝ (ANKARA)  - Mühendislik Fakültesi                                    (% 50 Burslu)                   (Ýngilizce)  : 494.083400
+7    - KOÇ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (% 50 Burslu)                   (Ýngilizce)  : 492.956060
+8    - TOBB EKONOMÝ VE TEKNOLOJÝ ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                   (%100 Burslu)                                : 492.674580
+9    - ÝSTANBUL TEKNÝK ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Fakültesi                                                                                         : 490.221810
+10   - ÖZYEÐÝN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                   (%100 Burslu)                   (Ýngilizce)  : 485.340710
+11   - TOBB EKONOMÝ VE TEKNOLOJÝ ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                   (% 75 Burslu)                                : 482.367980
+12   - GALATASARAY ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Teknoloji Fakültesi                                                                               : 469.246920
+13   - ABDULLAH GÜL ÜNÝVERSÝTESÝ (KAYSERÝ) - Mühendislik Fakültesi                                                                               (Ýngilizce)  : 465.433590
+14   - KOÇ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (% 25 Burslu)                   (Ýngilizce)  : 461.961370
+15   - BAHÇEÞEHÝR ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                              (%100 Burslu)                   (Ýngilizce)  : 458.743070
+16   - YILDIZ TEKNÝK ÜNÝVERSÝTESÝ (ÝSTANBUL) - Elektrik-Elektronik Fakültesi                                                                                  : 456.265580
+17   - YEDÝTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                  (%100 Burslu)                   (Ýngilizce)  : 454.366390
+18   - HACETTEPE ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                                                   (Ýngilizce)  : 450.887540
+19   - ÝSTANBUL BÝLGÝ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                     (%100 Burslu)                   (Ýngilizce)  : 447.437040
+20   - ÝZMÝR EKONOMÝ ÜNÝVERSÝTESÝ - Mühendislik ve Bilgisayar Bilimleri Fakültesi                                (%100 Burslu)                   (Ýngilizce)  : 444.328690
+21   - MARMARA ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                                                   (Ýngilizce)  : 441.117760
+22   - KADÝR HAS ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                               (%100 Burslu)                   (Ýngilizce)  : 438.424050
+23   - MEF ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (%100 Burslu)                   (Ýngilizce)  : 437.308150
+24   - ÝSTANBUL ÞEHÝR ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                     (%100 Burslu)                   (Ýngilizce)  : 433.630070
+25   - ORTA DOÐU TEKNÝK ÜNÝVERSÝTESÝ (ANKARA) - ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)                        (%100 Burslu)                   (Ýngilizce)  : 428.592230
+26   - TOBB EKONOMÝ VE TEKNOLOJÝ ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                   (% 50 Burslu)                                : 427.231230
+27   - ÝZMÝR YÜKSEK TEKNOLOJÝ ENSTÝTÜSÜ - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 427.006540
+28   - BAÞKENT ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (%100 Burslu)                                : 425.432890
+29   - KOÇ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (%  0 Burslu)                   (Ýngilizce)  : 425.074150
+30   - ANKARA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                               (Ýngilizce)  : 424.311630
+31   - MALTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                                 (%100 Burslu)                   (Ýngilizce)  : 418.253150
+32   - ÝSTANBUL KÜLTÜR ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                      (%100 Burslu)                   (Ýngilizce)  : 415.253810
+33   - EGE ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                                                                       : 415.054160
+34   - IÞIK ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                      (%100 Burslu)                   (Ýngilizce)  : 411.896590
+35   - ÝSTANBUL ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                          : 411.656880
+36   - ÝHSAN DOÐRAMACI BÝLKENT ÜNÝVERSÝTESÝ (ANKARA)  - Mühendislik Fakültesi                                    (%  0 Burslu)                   (Ýngilizce)  : 410.768040
+37   - YAÞAR ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                        (%100 Burslu)                   (Ýngilizce)  : 410.732960
+38   - ÝSTANBUL TÝCARET ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                     (%100 Burslu)                                : 410.394810
+39   - DOKUZ EYLÜL ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 408.383480
+40   - TÜRK-ALMAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                                                             : 407.217150
+41   - GEBZE TEKNÝK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                      : 404.114190
+42   - ANKARA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                            : 404.049550
+43   - OKAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                             (%100 Burslu)                   (Ýngilizce)  : 403.286800
+44   - ÇANKAYA ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (%100 Burslu)                   (Ýngilizce)  : 402.959670
+45   - ÝSTANBUL AYDIN ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                       (%100 Burslu)                   (Ýngilizce)  : 401.570690
+46   - DOÐUÞ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                     (%100 Burslu)                   (Ýngilizce)  : 400.966490
+47   - GAZÝ ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                                                                     : 399.621420
+48   - ÝSTANBUL MEDÝPOL ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                   (%100 Burslu)                   (Ýngilizce)  : 399.022620
+49   - FATÝH SULTAN MEHMET VAKIF ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                 (%100 Burslu)                                : 398.491610
+50   - ANADOLU ÜNÝVERSÝTESÝ (ESKÝÞEHÝR) - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 398.274130
+51   - YILDIRIM BEYAZIT ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik ve Doða Bilimleri Fakültesi                                                          (Ýngilizce)  : 395.866700
+52   - ATILIM ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                      (%100 Burslu)                   (Ýngilizce)  : 393.624290
+53   - OKAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                             (%100 Burslu)                                : 392.468240
+54   - ÜSKÜDAR ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                                 (%100 Burslu)                   (Ýngilizce)  : 390.113700
+55   - ULUSLARARASI ANTALYA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                 (%100 Burslu)                   (Ýngilizce)  : 389.190690
+56   - ÝSTANBUL KÜLTÜR ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                      (% 75 Burslu)                   (Ýngilizce)  : 387.320980
+57   - ÝSTANBUL SABAHATTÝN ZAÝM ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                           (%100 Burslu)                                : 384.203380
+58   - BEYKENT ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                          (%100 Burslu)                                : 383.424350
+59   - ÝSTANBUL KEMERBURGAZ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                               (%100 Burslu)                   (Ýngilizce)  : 383.277780
+60   - GAZÝ ÜNÝVERSÝTESÝ (ANKARA) - Teknoloji Fakültesi                                                                                                       : 381.986160
+61   - ORTA DOÐU TEKNÝK ÜNÝVERSÝTESÝ (ANKARA) - ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)                        (% 75 Burslu)                   (Ýngilizce)  : 381.476410
+62   - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (%100 Burslu)                   (Ýngilizce)  : 381.224060
+63   - ESKÝÞEHÝR OSMANGAZÝ ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                      : 380.925030
+64   - KOCAELÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                           : 380.215510
+65   - AKDENÝZ ÜNÝVERSÝTESÝ (ANTALYA) - Mühendislik Fakültesi                                                                                    (Ýngilizce)  : 376.678960
+66   - ÝZMÝR EKONOMÝ ÜNÝVERSÝTESÝ - Mühendislik ve Bilgisayar Bilimleri Fakültesi                                (% 50 Burslu)                   (Ýngilizce)  : 376.620470
+67   - KTO KARATAY ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                  (%100 Burslu)                                : 373.490510
+68   - HALÝÇ ÜNÝVERSÝTESÝ (ÝSTANBUL)  - Mühendislik Fakültesi                                                    (%100 Burslu)                                : 371.521570
+69   - TOBB EKONOMÝ VE TEKNOLOJÝ ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                   (%  0 Burslu)                                : 370.480860
+70   - ULUDAÐ ÜNÝVERSÝTESÝ (BURSA) - Mühendislik Fakültesi                                                                                                    : 370.300800
+71   - ÝSTANBUL GELÝÞÝM ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                            (%100 Burslu)                                : 366.703030
+72   - BAÞKENT ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (% 50 Burslu)                                : 366.356900
+73   - ÖZYEÐÝN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                   (% 50 Burslu)                   (Ýngilizce)  : 364.606410
+74   - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (%100 Burslu)                                : 363.349960
+75   - SAKARYA ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Bilimleri Fakültesi                                                                                       : 360.752150
+76   - NÝÞANTAÞI ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                        (%100 Burslu)                                : 359.495640
+77   - CELÂL BAYAR ÜNÝVERSÝTESÝ (MANÝSA) - Mühendislik Fakültesi                                                                                 (Ýngilizce)  : 354.202180
+78   - ÇUKUROVA ÜNÝVERSÝTESÝ (ADANA) - Mühendislik-Mimarlýk Fakültesi                                                                            (Ýngilizce)  : 353.888200
+79   - KOCAELÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                              (ÝÖ)                         : 351.146990
+80   - MALTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                                 (% 75 Burslu)                   (Ýngilizce)  : 349.227510
+81   - MUÐLA SITKI KOÇMAN ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                   (Ýngilizce)  : 346.869000
+82   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                                                                    : 346.464680
+83   - KARADENÝZ TEKNÝK ÜNÝVERSÝTESÝ (TRABZON) - Mühendislik Fakültesi                                                                                        : 342.927750
+84   - BAHÇEÞEHÝR ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                              (% 50 Burslu)                   (Ýngilizce)  : 337.274950
+85   - ÖZYEÐÝN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                   (% 25 Burslu)                   (Ýngilizce)  : 337.214790
+86   - ÇANAKKALE ONSEKÝZ MART ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                            : 333.292310
+87   - ADNAN MENDERES ÜNÝVERSÝTESÝ (AYDIN) - Mühendislik Fakültesi                                                                               (Ýngilizce)  : 332.430700
+88   - IÞIK ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                      (% 75 Burslu)                   (Ýngilizce)  : 332.151340
+89   - ÇANKAYA ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (% 50 Burslu)                   (Ýngilizce)  : 331.950600
+90   - YEDÝTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                  (% 50 Burslu)                   (Ýngilizce)  : 331.491090
+91   - ÝSTANBUL SABAHATTÝN ZAÝM ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                           (% 75 Burslu)                                : 330.962790
+92   - ONDOKUZ MAYIS ÜNÝVERSÝTESÝ (SAMSUN) - Mühendislik Fakültesi                                                                                            : 330.786680
+93   - ERCÝYES ÜNÝVERSÝTESÝ (KAYSERÝ) - Mühendislik Fakültesi                                                                                                 : 328.783920
+94   - SAKARYA ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Bilimleri Fakültesi                                                          (ÝÖ)                         : 327.454310
+95   - DOÐU AKDENÝZ ÜNÝVERSÝTESÝ (KKTC-GAZÝMAÐUSA) - Mühendislik Fakültesi                                       (%100 Burslu)                   (Ýngilizce)  : 326.926340
+96   - ÖZYEÐÝN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                   (%  0 Burslu)                   (Ýngilizce)  : 326.566750
+97   - YAÞAR ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                        (% 50 Burslu)                   (Ýngilizce)  : 326.159450
+98   - PAMUKKALE ÜNÝVERSÝTESÝ (DENÝZLÝ) - Mühendislik Fakültesi                                                                                               : 323.274720
+99   - ULUSLARARASI ANTALYA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                 (% 75 Burslu)                   (Ýngilizce)  : 321.157140
+100  - ABANT ÝZZET BAYSAL ÜNÝVERSÝTESÝ (BOLU) - Mühendislik-Mimarlýk Fakültesi                                                                                : 319.638190
+101  - ÝSTANBUL ESENYURT ÜNÝVERSÝTESÝ - Mühendislik ve Mimarlýk Fakültesi                                        (%100 Burslu)                                : 319.617440
+102  - ÇUKUROVA ÜNÝVERSÝTESÝ (ADANA) - Mühendislik-Mimarlýk Fakültesi                                                            (ÝÖ)            (Ýngilizce)  : 316.075630
+103  - GAZÝ ÜNÝVERSÝTESÝ (ANKARA) - Teknoloji Fakültesi                                                                               (M.T.O.K.)              : 315.800310
+104  - ORTA DOÐU TEKNÝK ÜNÝVERSÝTESÝ (ANKARA) - ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)                        (% 50 Burslu)                   (Ýngilizce)  : 314.748500
+105  - CELÂL BAYAR ÜNÝVERSÝTESÝ (MANÝSA) - Mühendislik Fakültesi                                                                 (ÝÖ)            (Ýngilizce)  : 314.480990
+106  - ÝSTANBUL BÝLGÝ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                     (% 50 Burslu)                   (Ýngilizce)  : 313.278930
+107  - TRAKYA ÜNÝVERSÝTESÝ (EDÝRNE) - Mühendislik Fakültesi                                                                                                   : 311.847100
+108  - KIRIKKALE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                         : 310.486120
+109  - NECMETTÝN ERBAKAN ÜNÝVERSÝTESÝ (KONYA) - Mühendislik ve Mimarlýk Fakültesi                                                                             : 309.110860
+110  - BALIKESÝR ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                         : 308.282670
+111  - KTO KARATAY ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                  (% 75 Burslu)                                : 305.909330
+112  - KARADENÝZ TEKNÝK ÜNÝVERSÝTESÝ (TRABZON) - Mühendislik Fakültesi                                                           (ÝÖ)                         : 305.623840
+113  - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                                                      : 305.045010
+114  - YALOVA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                            : 304.473730
+115  - ADANA BÝLÝM VE TEKNOLOJÝ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                                           (Ýngilizce)  : 302.494130
+116  - FATÝH SULTAN MEHMET VAKIF ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                 (% 50 Burslu)                                : 302.287790
+117  - MEF ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (% 50 Burslu)                   (Ýngilizce)  : 301.524760
+118  - YEDÝTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                  (% 25 Burslu)                   (Ýngilizce)  : 301.124370
+119  - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                                       (ÝÖ)                         : 299.387660
+120  - BAÞKENT ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (% 25 Burslu)                                : 298.891020
+121  - SÜLEYMAN DEMÝREL ÜNÝVERSÝTESÝ (ISPARTA) - Mühendislik Fakültesi                                                                                        : 298.737530
+122  - MERSÝN ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                            : 298.367740
+123  - DOÐU AKDENÝZ ÜNÝVERSÝTESÝ (KKTC-GAZÝMAÐUSA) - Mühendislik Fakültesi                                       (%100 Burslu)                                : 297.658120
+124  - ÝSTANBUL SABAHATTÝN ZAÝM ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                           (% 50 Burslu)                                : 296.681240
+125  - DÜZCE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                             : 294.848070
+126  - KARABÜK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                              (Ýngilizce)  : 293.380670
+127  - NAMIK KEMAL ÜNÝVERSÝTESÝ (TEKÝRDAÐ) - Çorlu Mühendislik Fakültesi                                                                                      : 292.879270
+128  - AVRASYA ÜNÝVERSÝTESÝ (TRABZON) - Mühendislik ve Mimarlýk Fakültesi                                        (%100 Burslu)                                : 291.496820
+129  - ÜSKÜDAR ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                                 (% 75 Burslu)                   (Ýngilizce)  : 290.633460
+130  - DUMLUPINAR ÜNÝVERSÝTESÝ (KÜTAHYA) - Mühendislik Fakültesi                                                                                              : 289.947520
+131  - ALANYA ALAADDÝN KEYKUBAT ÜNÝVERSÝTESÝ (ANTALYA) - Mühendislik Fakültesi                                                                                : 289.428980
+132  - ATILIM ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                      (% 50 Burslu)                   (Ýngilizce)  : 288.567620
+133  - ERCÝYES ÜNÝVERSÝTESÝ (KAYSERÝ) - Mühendislik Fakültesi                                                                    (ÝÖ)                         : 286.701020
+134  - KARABÜK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                           : 282.803960
+135  - BAÞKENT ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (%  0 Burslu)                                : 281.784600
+136  - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                         (ÝÖ)                         : 280.659990
+137  - ATATÜRK ÜNÝVERSÝTESÝ (ERZURUM) - Mühendislik Fakültesi                                                                                                 : 279.520800
+138  - HOCA AHMET YESEVÝ ULUSLARARASI TÜRK-KAZAK ÜNÝVERSÝTESÝ (TÜRKÝSTANKAZAKÝSTAN) -  Mühendislik Fakültesi     (%  0 Burslu)                                : 278.723810
+139  - HALÝÇ ÜNÝVERSÝTESÝ (ÝSTANBUL)  - Mühendislik Fakültesi                                                    (% 75 Burslu)                                : 278.705430
+140  - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                              (M.T.O.K.)              : 276.860750
+141  - HASAN KALYONCU ÜNÝVERSÝTESÝ (GAZÝANTEP) - Mühendislik Fakültesi                                           (%100 Burslu)                   (Ýngilizce)  : 275.788020
+142  - ÝSTANBUL BÝLGÝ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                     (% 25 Burslu)                   (Ýngilizce)  : 274.669830
+143  - BÜLENT ECEVÝT ÜNÝVERSÝTESÝ (ZONGULDAK) - Mühendislik Fakültesi                                                                                         : 273.814200
+144  - SÜLEYMAN DEMÝREL ÜNÝVERSÝTESÝ (ISPARTA) - Mühendislik Fakültesi                                                           (ÝÖ)                         : 273.610740
+145  - BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                              : 273.389320
+146  - KIRIKKALE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                            (ÝÖ)                         : 273.227390
+147  - ÝSTANBUL ÞEHÝR ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                     (% 50 Burslu)                   (Ýngilizce)  : 272.836620
+148  - DOÐU AKDENÝZ ÜNÝVERSÝTESÝ (KKTC-GAZÝMAÐUSA) - Mühendislik Fakültesi                                       (%  0 Burslu)                   (Ýngilizce)  : 272.091680
+149  - MALTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                                 (% 50 Burslu)                   (Ýngilizce)  : 271.198090
+150  - YAKIN DOÐU ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                            (%100 Burslu)                   (Ýngilizce)  : 270.768430
+151  - ÝNÖNÜ ÜNÝVERSÝTESÝ (MALATYA) - Mühendislik Fakültesi                                                                                                   : 270.554890
+152  - ÝSTANBUL GELÝÞÝM ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                            (% 75 Burslu)                                : 268.691560
+153  - ÝSTANBUL KÜLTÜR ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                      (% 50 Burslu)                   (Ýngilizce)  : 268.619940
+154  - YAÞAR ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                        (% 25 Burslu)                   (Ýngilizce)  : 268.143310
+155  - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                                               : 267.886530
+156  - ÝZMÝR EKONOMÝ ÜNÝVERSÝTESÝ - Mühendislik ve Bilgisayar Bilimleri Fakültesi                                (% 25 Burslu)                   (Ýngilizce)  : 267.565210
+157  - NAMIK KEMAL ÜNÝVERSÝTESÝ (TEKÝRDAÐ) - Çorlu Mühendislik Fakültesi                                                         (ÝÖ)                         : 267.243180
+158  - KASTAMONU ÜNÝVERSÝTESÝ - Mühendislik ve Mimarlýk Fakültesi                                                                                             : 266.490470
+159  - CUMHURÝYET ÜNÝVERSÝTESÝ (SÝVAS) - Mühendislik Fakültesi                                                                                                : 265.285130
+160  - MEHMET AKÝF ERSOY ÜNÝVERSÝTESÝ (BURDUR) - Mühendislik-Mimarlýk Fakültesi                                                                               : 264.579980
+161  - ATILIM ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                      (% 25 Burslu)                   (Ýngilizce)  : 263.658500
+162  - BAHÇEÞEHÝR ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                              (%  0 Burslu)                   (Ýngilizce)  : 263.326130
+163  - ÝSKENDERUN TEKNÝK ÜNÝVERSÝTESÝ (HATAY) - Elektrik-Elektronik Fakültesi                                                                                 : 263.242300
+164  - DÜZCE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                (ÝÖ)                         : 262.738070
+165  - DUMLUPINAR ÜNÝVERSÝTESÝ (KÜTAHYA) - Mühendislik Fakültesi                                                                 (ÝÖ)                         : 262.129140
+166  - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                         (ÝÖ) (M.T.O.K.)              : 261.499420
+167  - KAHRAMANMARAÞ SÜTÇÜ ÝMAM ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                 : 260.999290
+168  - ÝSTANBUL MEDÝPOL ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                   (% 50 Burslu)                   (Ýngilizce)  : 260.484400
+169  - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                       (M.T.O.K.)              : 259.459990
+170  - ULUSLARARASI ANTALYA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                 (% 50 Burslu)                   (Ýngilizce)  : 258.902890
+171  - ÝSTANBUL TÝCARET ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                     (% 50 Burslu)                                : 258.610210
+172  - KARABÜK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                              (ÝÖ)                         : 258.508570
+173  - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                  (ÝÖ)                         : 255.487320
+174  - ORTA DOÐU TEKNÝK ÜNÝVERSÝTESÝ (ANKARA) - ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)                        (%  0 Burslu)                   (Ýngilizce)  : 253.766800
+175  - OKAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                             (%  0 Burslu)                                : 253.656370
+176  - MEF ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                       (% 25 Burslu)                   (Ýngilizce)  : 253.229070
+177  - OKAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                             (% 50 Burslu)                   (Ýngilizce)  : 251.528270
+178  - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                  (ÝÖ) (M.T.O.K.)              : 251.456980
+179  - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (% 50 Burslu)                                : 251.330710
+180  - ÇANKAYA ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                     (% 25 Burslu)                   (Ýngilizce)  : 251.227870
+181  - YAKIN DOÐU ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                            (%100 Burslu)                                : 251.163960
+182  - GAZÝOSMANPAÞA ÜNÝVERSÝTESÝ (TOKAT) - Mühendislik ve Doða Bilimleri Fakültesi                                                                           : 250.660200
+183  - ATATÜRK ÜNÝVERSÝTESÝ (ERZURUM) - Mühendislik Fakültesi                                                                    (ÝÖ)                         : 250.527630
+184  - DOÐU AKDENÝZ ÜNÝVERSÝTESÝ (KKTC-GAZÝMAÐUSA) - Mühendislik Fakültesi                                       (% 50 Burslu)                   (Ýngilizce)  : 250.015640
+185  - ÝSTANBUL TÝCARET ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                     (%  0 Burslu)                                : 249.803130
+186  - CUMHURÝYET ÜNÝVERSÝTESÝ (SÝVAS) - Mühendislik Fakültesi                                                                   (ÝÖ)                         : 248.663070
+187  - ÝSTANBUL TÝCARET ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                     (% 25 Burslu)                                : 248.112920
+188  - FIRAT ÜNÝVERSÝTESÝ (ELAZIÐ) - Mühendislik Fakültesi                                                                                                    : 247.906370
+189  - BOZOK ÜNÝVERSÝTESÝ (YOZGAT) - Mühendislik-Mimarlýk Fakültesi                                                                                           : 247.524670
+190  - AVRASYA ÜNÝVERSÝTESÝ (TRABZON) - Mühendislik ve Mimarlýk Fakültesi                                        (% 50 Burslu)                                : 247.430200
+191  - YEDÝTEPE ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                  (%  0 Burslu)                   (Ýngilizce)  : 247.049550
+192  - YAKIN DOÐU ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                            (% 75 Burslu)                   (Ýngilizce)  : 246.500860
+193  - SÝÝRT ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                                    : 246.217050
+194  - ÝNÖNÜ ÜNÝVERSÝTESÝ (MALATYA) - Mühendislik Fakültesi                                                                      (ÝÖ)                         : 246.054530
+195  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (%100 Burslu)                                : 245.770880
+196  - KADÝR HAS ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Doða Bilimleri Fakültesi                               (% 50 Burslu)                   (Ýngilizce)  : 245.675910
+197  - HOCA AHMET YESEVÝ ULUSLARARASI TÜRK-KAZAK ÜNÝVERSÝTESÝ (TÜRKÝSTANKAZAKÝSTAN) -  Mühendislik Fakültesi                                                  : 245.305630
+198  - ÝZMÝR EKONOMÝ ÜNÝVERSÝTESÝ - Mühendislik ve Bilgisayar Bilimleri Fakültesi                                (%  0 Burslu)                   (Ýngilizce)  : 245.055500
+199  - OKAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                             (% 50 Burslu)                                : 244.432630
+200  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (%100 Burslu)                   (Ýngilizce)  : 244.273360
+201  - ÝSKENDERUN TEKNÝK ÜNÝVERSÝTESÝ (HATAY) - Elektrik-Elektronik Fakültesi                                                    (ÝÖ)                         : 243.812940
+202  - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (% 50 Burslu)                   (Ýngilizce)  : 243.798660
+203  - IÞIK ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                      (% 50 Burslu)                   (Ýngilizce)  : 243.661490
+204  - GÝRNE ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                                   (%100 Burslu)                   (Ýngilizce)  : 243.524770
+205  - OKAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                             (%  0 Burslu)                   (Ýngilizce)  : 242.837830
+206  - LEFKE AVRUPA ÜNÝVERSÝTESÝ (KKTC-LEFKE) - Mühendislik Fakültesi                                            (%100 Burslu)                   (Ýngilizce)  : 242.735410
+207  - YAÞAR ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                        (%  0 Burslu)                   (Ýngilizce)  : 242.708850
+208  - ULUSLARARASI KIBRIS ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                   (%100 Burslu)                   (Ýngilizce)  : 242.438040
+209  - ÝSTANBUL GELÝÞÝM ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                            (% 50 Burslu)                                : 241.755890
+210  - LEFKE AVRUPA ÜNÝVERSÝTESÝ (KKTC-LEFKE) - Mühendislik Fakültesi                                            (%100 Burslu)                                : 241.430620
+211  - ÝSTANBUL ÞEHÝR ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                     (% 25 Burslu)                   (Ýngilizce)  : 241.155780
+212  - BATMAN ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                                   : 241.124120
+213  - ÝSTANBUL KEMERBURGAZ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                               (% 50 Burslu)                   (Ýngilizce)  : 240.914040
+214  - NÝÞANTAÞI ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                        (% 75 Burslu)                                : 240.902990
+215  - HALÝÇ ÜNÝVERSÝTESÝ (ÝSTANBUL)  - Mühendislik Fakültesi                                                    (% 50 Burslu)                                : 240.721890
+216  - KIRGIZÝSTAN-TÜRKÝYE MANAS ÜNÝVERSÝTESÝ (BÝÞKEK-KIRGIZÝSTAN) - Mühendislik Fakültesi                                                                    : 240.588650
+217  - ÝSTANBUL ESENYURT ÜNÝVERSÝTESÝ - Mühendislik ve Mimarlýk Fakültesi                                        (% 75 Burslu)                                : 240.558550
+218  - ÝSTANBUL AYDIN ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                       (% 50 Burslu)                   (Ýngilizce)  : 240.385750
+219  - DOÐUÞ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                     (% 50 Burslu)                   (Ýngilizce)  : 240.202980
+220  - KTO KARATAY ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                  (% 50 Burslu)                                : 240.106340
+221  - HARRAN ÜNÝVERSÝTESÝ (ÞANLIURFA) - Mühendislik Fakültesi                                                                                                : 239.995190
+222  - BEYKENT ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik-Mimarlýk Fakültesi                                          (% 50 Burslu)                                : 239.912100
+223  - FIRAT ÜNÝVERSÝTESÝ (ELAZIÐ) - Mühendislik Fakültesi                                                                       (ÝÖ)                         : 239.790940
+224  - MUÞ ALPARSLAN ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                            : 239.721940
+225  - TUNCELÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                           : 239.699530
+226  - HASAN KALYONCU ÜNÝVERSÝTESÝ (GAZÝANTEP) - Mühendislik Fakültesi                                           (% 50 Burslu)                   (Ýngilizce)  : 239.648290
+227  - DOÐU AKDENÝZ ÜNÝVERSÝTESÝ (KKTC-GAZÝMAÐUSA) - Mühendislik Fakültesi                                       (% 50 Burslu)                                : 0.000000
+228  - DOÐU AKDENÝZ ÜNÝVERSÝTESÝ (KKTC-GAZÝMAÐUSA) - Mühendislik Fakültesi                                       (%  0 Burslu)                                : 0.000000
+229  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (% 50 Burslu)                                : 0.000000
+230  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (% 75 Burslu)                                : 0.000000
+231  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (% 50 Burslu)                   (Ýngilizce)  : 0.000000
+232  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (% 75 Burslu)                   (Ýngilizce)  : 0.000000
+233  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (%  0 Burslu)                   (Ýngilizce)  : 0.000000
+234  - GÝRNE AMERÝKAN ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                          (%  0 Burslu)                                : 0.000000
+235  - GÝRNE ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                                   (% 50 Burslu)                   (Ýngilizce)  : 0.000000
+236  - GÝRNE ÜNÝVERSÝTESÝ (KKTC-GÝRNE) - Mühendislik Fakültesi                                                   (% 75 Burslu)                   (Ýngilizce)  : 0.000000
+237  - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (% 25 Burslu)                                : 0.000000
+238  - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (% 25 Burslu)                   (Ýngilizce)  : 0.000000
+239  - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (%  0 Burslu)                   (Ýngilizce)  : 0.000000
+240  - ÝSTANBUL AREL ÜNÝVERSÝTESÝ  - Mühendislik-Mimarlýk Fakültesi                                              (%  0 Burslu)                                : 0.000000
+241  - ÝSTANBUL ESENYURT ÜNÝVERSÝTESÝ - Mühendislik ve Mimarlýk Fakültesi                                        (% 50 Burslu)                                : 0.000000
+242  - ÝSTANBUL KEMERBURGAZ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                               (% 25 Burslu)                   (Ýngilizce)  : 0.000000
+243  - LEFKE AVRUPA ÜNÝVERSÝTESÝ (KKTC-LEFKE) - Mühendislik Fakültesi                                            (% 50 Burslu)                                : 0.000000
+244  - LEFKE AVRUPA ÜNÝVERSÝTESÝ (KKTC-LEFKE) - Mühendislik Fakültesi                                            (% 75 Burslu)                                : 0.000000
+245  - LEFKE AVRUPA ÜNÝVERSÝTESÝ (KKTC-LEFKE) - Mühendislik Fakültesi                                            (% 50 Burslu)                   (Ýngilizce)  : 0.000000
+246  - LEFKE AVRUPA ÜNÝVERSÝTESÝ (KKTC-LEFKE) - Mühendislik Fakültesi                                            (% 75 Burslu)                   (Ýngilizce)  : 0.000000
+247  - ULUSLARARASI KIBRIS ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                   (% 75 Burslu)                   (Ýngilizce)  : 0.000000
+248  - ULUSLARARASI KIBRIS ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                   (%  0 Burslu)                   (Ýngilizce)  : 0.000000
+249  - YAKIN DOÐU ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                            (% 50 Burslu)                                : 0.000000
+250  - YAKIN DOÐU ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                            (% 75 Burslu)                                : 0.000000
+251  - YAKIN DOÐU ÜNÝVERSÝTESÝ (KKTC-LEFKOÞA) - Mühendislik Fakültesi                                            (% 50 Burslu)                   (Ýngilizce)  : 0.000000
+

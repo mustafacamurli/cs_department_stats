@@ -1,0 +1,99 @@
+...::: Devlet Üniversiteleri Baþarý Sýrasý (Tavan Puanýna Göre) :::...
+1    - BOÐAZÝÇÝ ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 557.418480
+2    - ORTA DOÐU TEKNÝK ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                                            (Ýngilizce)  : 533.332290
+3    - ÝSTANBUL TEKNÝK ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Fakültesi                                                                                         : 523.031160
+4    - ÝSTANBUL TEKNÝK ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Fakültesi                                                                            (Ýngilizce)  : 522.473930
+5    - ABDULLAH GÜL ÜNÝVERSÝTESÝ (KAYSERÝ) - Mühendislik Fakültesi                                                                               (Ýngilizce)  : 505.909630
+6    - GALATASARAY ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik ve Teknoloji Fakültesi                                                                               : 489.954700
+7    - YILDIZ TEKNÝK ÜNÝVERSÝTESÝ (ÝSTANBUL) - Elektrik-Elektronik Fakültesi                                                                                  : 489.685770
+8    - HACETTEPE ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                                                   (Ýngilizce)  : 484.873880
+9    - MARMARA ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                                                   (Ýngilizce)  : 483.482920
+10   - ÝZMÝR YÜKSEK TEKNOLOJÝ ENSTÝTÜSÜ - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 453.827980
+11   - TÜRK-ALMAN ÜNÝVERSÝTESÝ (ÝSTANBUL) - Mühendislik Fakültesi                                                                                             : 453.066540
+12   - ÇUKUROVA ÜNÝVERSÝTESÝ (ADANA) - Mühendislik-Mimarlýk Fakültesi                                                                            (Ýngilizce)  : 452.881720
+13   - GEBZE TEKNÝK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                      : 449.957220
+14   - ULUDAÐ ÜNÝVERSÝTESÝ (BURSA) - Mühendislik Fakültesi                                                                                                    : 448.539940
+15   - ANKARA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                               (Ýngilizce)  : 447.981420
+16   - EGE ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                                                                       : 447.367720
+17   - ÝSTANBUL ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                          : 442.061120
+18   - DOKUZ EYLÜL ÜNÝVERSÝTESÝ (ÝZMÝR) - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 441.916020
+19   - KOCAELÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                           : 440.715210
+20   - YILDIRIM BEYAZIT ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik ve Doða Bilimleri Fakültesi                                                          (Ýngilizce)  : 436.976150
+21   - ANKARA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                            : 434.186630
+22   - GAZÝ ÜNÝVERSÝTESÝ (ANKARA) - Mühendislik Fakültesi                                                                                                     : 429.503410
+23   - ANADOLU ÜNÝVERSÝTESÝ (ESKÝÞEHÝR) - Mühendislik Fakültesi                                                                                  (Ýngilizce)  : 428.411630
+24   - ESKÝÞEHÝR OSMANGAZÝ ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                      : 419.796610
+25   - AKDENÝZ ÜNÝVERSÝTESÝ (ANTALYA) - Mühendislik Fakültesi                                                                                    (Ýngilizce)  : 417.479320
+26   - SAKARYA ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Bilimleri Fakültesi                                                                                       : 417.123050
+27   - PAMUKKALE ÜNÝVERSÝTESÝ (DENÝZLÝ) - Mühendislik Fakültesi                                                                                               : 410.639540
+28   - TRAKYA ÜNÝVERSÝTESÝ (EDÝRNE) - Mühendislik Fakültesi                                                                                                   : 409.054370
+29   - MUÐLA SITKI KOÇMAN ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                   (Ýngilizce)  : 408.310280
+30   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                                                                    : 407.771830
+31   - KAHRAMANMARAÞ SÜTÇÜ ÝMAM ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                 : 405.881670
+32   - GAZÝ ÜNÝVERSÝTESÝ (ANKARA) - Teknoloji Fakültesi                                                                                                       : 402.975770
+33   - CELÂL BAYAR ÜNÝVERSÝTESÝ (MANÝSA) - Mühendislik Fakültesi                                                                                 (Ýngilizce)  : 398.910460
+34   - ERCÝYES ÜNÝVERSÝTESÝ (KAYSERÝ) - Mühendislik Fakültesi                                                                                                 : 398.589880
+35   - KOCAELÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                              (ÝÖ)                         : 396.723880
+36   - KARADENÝZ TEKNÝK ÜNÝVERSÝTESÝ (TRABZON) - Mühendislik Fakültesi                                                                                        : 395.705670
+37   - ONDOKUZ MAYIS ÜNÝVERSÝTESÝ (SAMSUN) - Mühendislik Fakültesi                                                                                            : 391.133070
+38   - NECMETTÝN ERBAKAN ÜNÝVERSÝTESÝ (KONYA) - Mühendislik ve Mimarlýk Fakültesi                                                                             : 389.204140
+39   - ÝNÖNÜ ÜNÝVERSÝTESÝ (MALATYA) - Mühendislik Fakültesi                                                                                                   : 387.563890
+40   - KIRIKKALE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                         : 386.163870
+41   - ATATÜRK ÜNÝVERSÝTESÝ (ERZURUM) - Mühendislik Fakültesi                                                                                                 : 383.915800
+42   - SÜLEYMAN DEMÝREL ÜNÝVERSÝTESÝ (ISPARTA) - Mühendislik Fakültesi                                                                                        : 383.526440
+43   - ÇANAKKALE ONSEKÝZ MART ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                            : 378.584580
+44   - ABANT ÝZZET BAYSAL ÜNÝVERSÝTESÝ (BOLU) - Mühendislik-Mimarlýk Fakültesi                                                                                : 376.184800
+45   - ALANYA ALAADDÝN KEYKUBAT ÜNÝVERSÝTESÝ (ANTALYA) - Mühendislik Fakültesi                                                                                : 371.218840
+46   - KIRIKKALE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                            (ÝÖ)                         : 370.879740
+47   - GAZÝ ÜNÝVERSÝTESÝ (ANKARA) - Teknoloji Fakültesi                                                                               (M.T.O.K.)              : 370.261630
+48   - KARADENÝZ TEKNÝK ÜNÝVERSÝTESÝ (TRABZON) - Mühendislik Fakültesi                                                           (ÝÖ)                         : 368.508130
+49   - DÜZCE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                             : 363.916580
+50   - NAMIK KEMAL ÜNÝVERSÝTESÝ (TEKÝRDAÐ) - Çorlu Mühendislik Fakültesi                                                         (ÝÖ)                         : 362.407020
+51   - CUMHURÝYET ÜNÝVERSÝTESÝ (SÝVAS) - Mühendislik Fakültesi                                                                                                : 360.878280
+52   - ADNAN MENDERES ÜNÝVERSÝTESÝ (AYDIN) - Mühendislik Fakültesi                                                                               (Ýngilizce)  : 359.446810
+53   - SAKARYA ÜNÝVERSÝTESÝ - Bilgisayar ve Biliþim Bilimleri Fakültesi                                                          (ÝÖ)                         : 358.800130
+54   - BÜLENT ECEVÝT ÜNÝVERSÝTESÝ (ZONGULDAK) - Mühendislik Fakültesi                                                                                         : 358.736690
+55   - YALOVA ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                            : 358.647470
+56   - DUMLUPINAR ÜNÝVERSÝTESÝ (KÜTAHYA) - Mühendislik Fakültesi                                                                                              : 356.708000
+57   - BALIKESÝR ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                         : 356.610910
+58   - ÇUKUROVA ÜNÝVERSÝTESÝ (ADANA) - Mühendislik-Mimarlýk Fakültesi                                                            (ÝÖ)            (Ýngilizce)  : 353.642440
+59   - NAMIK KEMAL ÜNÝVERSÝTESÝ (TEKÝRDAÐ) - Çorlu Mühendislik Fakültesi                                                                                      : 352.806920
+60   - CELÂL BAYAR ÜNÝVERSÝTESÝ (MANÝSA) - Mühendislik Fakültesi                                                                 (ÝÖ)            (Ýngilizce)  : 351.846830
+61   - MERSÝN ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                            : 351.273920
+62   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                                                      : 345.796680
+63   - DUMLUPINAR ÜNÝVERSÝTESÝ (KÜTAHYA) - Mühendislik Fakültesi                                                                 (ÝÖ)                         : 345.593610
+64   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Mühendislik Fakültesi                                                                       (ÝÖ)                         : 344.726940
+65   - CUMHURÝYET ÜNÝVERSÝTESÝ (SÝVAS) - Mühendislik Fakültesi                                                                   (ÝÖ)                         : 343.800480
+66   - KARABÜK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                              (ÝÖ)                         : 341.985610
+67   - SÜLEYMAN DEMÝREL ÜNÝVERSÝTESÝ (ISPARTA) - Mühendislik Fakültesi                                                           (ÝÖ)                         : 341.896740
+68   - BOZOK ÜNÝVERSÝTESÝ (YOZGAT) - Mühendislik-Mimarlýk Fakültesi                                                                                           : 340.065580
+69   - FIRAT ÜNÝVERSÝTESÝ (ELAZIÐ) - Mühendislik Fakültesi                                                                                                    : 336.168630
+70   - ADANA BÝLÝM VE TEKNOLOJÝ ÜNÝVERSÝTESÝ - Mühendislik ve Doða Bilimleri Fakültesi                                                           (Ýngilizce)  : 334.339420
+71   - SÝÝRT ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                                    : 330.344460
+72   - HARRAN ÜNÝVERSÝTESÝ (ÞANLIURFA) - Mühendislik Fakültesi                                                                                                : 329.817280
+73   - ERCÝYES ÜNÝVERSÝTESÝ (KAYSERÝ) - Mühendislik Fakültesi                                                                    (ÝÖ)                         : 328.307520
+74   - KARABÜK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                              (Ýngilizce)  : 328.077860
+75   - KASTAMONU ÜNÝVERSÝTESÝ - Mühendislik ve Mimarlýk Fakültesi                                                                                             : 327.446370
+76   - MUÞ ALPARSLAN ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                            : 320.064290
+77   - MEHMET AKÝF ERSOY ÜNÝVERSÝTESÝ (BURDUR) - Mühendislik-Mimarlýk Fakültesi                                                                               : 319.017270
+78   - DÜZCE ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                (ÝÖ)                         : 318.954540
+79   - KARABÜK ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                           : 316.199660
+80   - GAZÝOSMANPAÞA ÜNÝVERSÝTESÝ (TOKAT) - Mühendislik ve Doða Bilimleri Fakültesi                                                                           : 312.184300
+81   - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                                               : 309.664180
+82   - BATMAN ÜNÝVERSÝTESÝ - Mühendislik-Mimarlýk Fakültesi                                                                                                   : 308.008710
+83   - ÝSKENDERUN TEKNÝK ÜNÝVERSÝTESÝ (HATAY) - Elektrik-Elektronik Fakültesi                                                                                 : 306.907550
+84   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                              (M.T.O.K.)              : 303.487020
+85   - ATATÜRK ÜNÝVERSÝTESÝ (ERZURUM) - Mühendislik Fakültesi                                                                    (ÝÖ)                         : 303.087650
+86   - BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                              : 300.750770
+87   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                         (ÝÖ)                         : 299.061170
+88   - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                  (ÝÖ)                         : 289.476420
+89   - ÝSKENDERUN TEKNÝK ÜNÝVERSÝTESÝ (HATAY) - Elektrik-Elektronik Fakültesi                                                    (ÝÖ)                         : 285.159820
+90   - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                       (M.T.O.K.)              : 283.507700
+91   - ÝNÖNÜ ÜNÝVERSÝTESÝ (MALATYA) - Mühendislik Fakültesi                                                                      (ÝÖ)                         : 277.547230
+92   - FIRAT ÜNÝVERSÝTESÝ (ELAZIÐ) - Mühendislik Fakültesi                                                                       (ÝÖ)                         : 277.444640
+93   - SELÇUK ÜNÝVERSÝTESÝ (KONYA) - Teknoloji Fakültesi                                                                         (ÝÖ) (M.T.O.K.)              : 275.452800
+94   - TUNCELÝ ÜNÝVERSÝTESÝ - Mühendislik Fakültesi                                                                                                           : 270.339410
+95   - DÜZCE ÜNÝVERSÝTESÝ - Teknoloji Fakültesi                                                                                  (ÝÖ) (M.T.O.K.)              : 269.229830
+96   - HOCA AHMET YESEVÝ ULUSLARARASI TÜRK-KAZAK ÜNÝVERSÝTESÝ (TÜRKÝSTANKAZAKÝSTAN) -  Mühendislik Fakültesi                                                  : 245.305630
+97   - KIRGIZÝSTAN-TÜRKÝYE MANAS ÜNÝVERSÝTESÝ (BÝÞKEK-KIRGIZÝSTAN) - Mühendislik Fakültesi                                                                    : 240.588650
+

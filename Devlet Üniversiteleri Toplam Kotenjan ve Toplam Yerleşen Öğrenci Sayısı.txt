@@ -1,0 +1,5 @@
+...::: Devlet Üniversiteleri Toplam Kotenjan ve Toplam Yerleþen Öðrenci Sayýsý :::...
+Toplam Kontenjan               : 5747.
+Toplam Yerleþen Öðrenci Sayýsý : 5663.
+Boþta Kalan Kontejan Sayýsý    : 84.
+

@@ -1,0 +1,501 @@
+ABANT İZZET BAYSAL ÜNİVERSİTESİ (BOLU)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 40 40 319,63819 376,18480
+
+ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 15 15 465,43359 505,90963
+
+ADANA BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 30 30 302,49413 334,33942
+
+ADNAN MENDERES ÜNİVERSİTESİ (AYDIN)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 50 50 332,43070 359,44681
+
+AKDENİZ ÜNİVERSİTESİ (ANTALYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 50 50 376,67896 417,47932
+
+ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 289,42898 371,21884
+
+ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 70 70 398,27413 428,41163
+
+ANKARA ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 70 70 404,04955 434,18663
+
+ANKARA ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 60 60 424,31163 447,98142
+
+ATATÜRK ÜNİVERSİTESİ (ERZURUM)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 61 279,52080 383,91580
+
+ATATÜRK ÜNİVERSİTESİ (ERZURUM)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 250,52763 303,08765
+
+ATILIM ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 10 10 263,65850 277,10309
+
+ATILIM ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 39 39 288,56762 363,13634
+
+ATILIM ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 393,62429 417,85313
+
+AVRASYA ÜNİVERSİTESİ (TRABZON)/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 54 4 247,43020 281,24925
+
+AVRASYA ÜNİVERSİTESİ (TRABZON)/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 6 6 291,49682 340,07366
+
+BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 50 50 337,27495 420,93669
+
+BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 9 9 458,74307 483,75846
+
+BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 30 30 263,32613 333,44664
+
+BALIKESİR ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 40 40 308,28267 356,61091
+
+BAŞKENT ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%25 Burslu) MF-4 20 20 298,89102 357,26025
+
+BAŞKENT ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 20 20 366,35690 415,36276
+
+BAŞKENT ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 5 5 425,43289 434,67429
+
+BAŞKENT ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 5 5 281,78460 296,91930
+
+BATMAN ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 40 24 241,12412 308,00871
+
+BEYKENT ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 108 57 239,91210 325,16436
+
+BEYKENT ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 12 12 383,42435 410,10424
+
+BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 273,38932 300,75077
+
+BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 80 80 524,06399 557,41848
+
+BOZOK ÜNİVERSİTESİ (YOZGAT)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 247,52467 340,06558
+
+BÜLENT ECEVİT ÜNİVERSİTESİ (ZONGULDAK)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 273,81420 358,73669
+
+CELÂL BAYAR ÜNİVERSİTESİ (MANİSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 45 45 354,20218 398,91046
+
+CELÂL BAYAR ÜNİVERSİTESİ (MANİSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (İÖ) MF-4 45 46 314,48099 351,84683
+
+CUMHURİYET ÜNİVERSİTESİ (SİVAS)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 55 57 265,28513 360,87828
+
+CUMHURİYET ÜNİVERSİTESİ (SİVAS)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 55 57 248,66307 343,80048
+
+ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 60 333,29231 378,58458
+
+ÇANKAYA ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 25 25 251,22787 320,06518
+
+ÇANKAYA ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 35 35 331,95060 370,85125
+
+ÇANKAYA ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 8 8 402,95967 421,93348
+
+ÇUKUROVA ÜNİVERSİTESİ (ADANA)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 70 70 353,88820 452,88172
+
+ÇUKUROVA ÜNİVERSİTESİ (ADANA)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (İÖ) MF-4 70 72 316,07563 353,64244
+
+DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 14 0 --- ---
+
+DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 17 3 250,01564 279,77545
+
+DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 3 3 326,92634 329,22807
+
+DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 5 1 272,09168 272,09168
+
+DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 2 2 297,65812 311,07006
+
+DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 4 0 --- ---
+
+DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 54 46 240,20298 304,41764
+
+DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 400,96649 414,75584
+
+DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 90 90 408,38348 441,91602
+
+DUMLUPINAR ÜNİVERSİTESİ (KÜTAHYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 70 72 289,94752 356,70800
+
+DUMLUPINAR ÜNİVERSİTESİ (KÜTAHYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 70 72 262,12914 345,59361
+
+DÜZCE ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 60 294,84807 363,91658
+
+DÜZCE ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 262,73807 318,95454
+
+DÜZCE ÜNİVERSİTESİ/Teknoloji Fakültesi/Bilgisayar Mühendisliği MF-4 64 66 267,88653 309,66418
+
+DÜZCE ÜNİVERSİTESİ/Teknoloji Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 48 50 255,48732 289,47642
+
+DÜZCE ÜNİVERSİTESİ/Teknoloji Fakültesi/Bilgisayar Mühendisliği (M.T.O.K.) MF-4 16 17 259,45999 283,50770
+
+DÜZCE ÜNİVERSİTESİ/Teknoloji Fakültesi/Bilgisayar Mühendisliği (M.T.O.K.) (İÖ) MF-4 12 13 251,45698 269,22983
+
+EGE ÜNİVERSİTESİ (İZMİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 100 100 415,05416 447,36772
+
+ERCİYES ÜNİVERSİTESİ (KAYSERİ)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 85 87 328,78392 398,58988
+
+ERCİYES ÜNİVERSİTESİ (KAYSERİ)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 85 88 286,70102 328,30752
+
+ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 70 70 380,92503 419,79661
+
+FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 20 20 302,28779 381,09971
+
+FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 10 10 398,49161 432,94545
+
+FIRAT ÜNİVERSİTESİ (ELAZIĞ)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 85 88 247,90637 336,16863
+
+FIRAT ÜNİVERSİTESİ (ELAZIĞ)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 85 49 239,79094 277,44464
+
+GALATASARAY ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Teknoloji Fakültesi/Bilgisayar Mühendisliği MF-4 17 17 469,24692 489,95470
+
+GAZİ ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 70 70 399,62142 429,50341
+
+GAZİ ÜNİVERSİTESİ (ANKARA)/Teknoloji Fakültesi/Bilgisayar Mühendisliği MF-4 48 48 381,98616 402,97577
+
+GAZİ ÜNİVERSİTESİ (ANKARA)/Teknoloji Fakültesi/Bilgisayar Mühendisliği (M.T.O.K.) MF-4 12 12 315,80031 370,26163
+
+GAZİOSMANPAŞA ÜNİVERSİTESİ (TOKAT)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği MF-4 40 41 250,66020 312,18430
+
+GEBZE TEKNİK ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 75 75 404,11419 449,95722
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 3 0 --- ---
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 2 0 --- ---
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 6 0 --- ---
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 6 0 --- ---
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 9 8 244,27336 290,91434
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 9 0 --- ---
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 6 2 245,77088 255,51724
+
+GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 14 0 --- ---
+
+GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 17 0 --- ---
+
+GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 10 0 --- ---
+
+GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 3 2 243,52477 303,63314
+
+HACETTEPE ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 105 105 450,88754 484,87388
+
+HALİÇ ÜNİVERSİTESİ (İSTANBUL) /Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 14 10 240,72189 282,41005
+
+HALİÇ ÜNİVERSİTESİ (İSTANBUL) /Mühendislik Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 31 31 278,70543 361,79611
+
+HALİÇ ÜNİVERSİTESİ (İSTANBUL) /Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 5 5 371,52157 399,34013
+
+HARRAN ÜNİVERSİTESİ (ŞANLIURFA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 61 239,99519 329,81728
+
+HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 17 11 239,64829 270,75367
+
+HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 13 13 275,78802 394,04057
+
+HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTANKAZAKİSTAN)/ Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 10 1 245,30563 245,30563
+
+HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTANKAZAKİSTAN)/ Mühendislik Fakültesi/Bilgisayar Mühendisliği (Uzaktan Öğretim) (Ücretli) MF-4 150 150 278,72381 410,84516
+
+IŞIK ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 16 16 243,66149 291,98280
+
+IŞIK ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 11 11 332,15134 393,26482
+
+IŞIK ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 3 3 411,89659 435,79332
+
+İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA) /Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 20 20 494,08340 505,55173
+
+İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA) /Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 50 50 517,34425 553,07697
+
+İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA) /Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 90 90 410,76804 493,83954
+
+İNÖNÜ ÜNİVERSİTESİ (MALATYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 61 270,55489 387,56389
+
+İNÖNÜ ÜNİVERSİTESİ (MALATYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 246,05453 277,54723
+
+İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)/Elektrik-Elektronik Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 263,24230 306,90755
+
+İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)/Elektrik-Elektronik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 243,81294 285,15982
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%25 Burslu) MF-4 2 0 --- ---
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 19 3 251,33071 272,31104
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 2 0 --- ---
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 19 1 243,79866 243,79866
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 2 2 381,22406 394,23158
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 1 0 --- ---
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 2 2 363,34996 378,43475
+
+İSTANBUL AREL ÜNİVERSİTESİ /Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 1 0 --- ---
+
+İSTANBUL AYDIN ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 54 45 240,38575 344,46358
+
+İSTANBUL AYDIN ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 401,57069 410,02247
+
+İSTANBUL BİLGİ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 15 15 274,66983 309,14464
+
+İSTANBUL BİLGİ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 43 43 313,27893 408,82473
+
+İSTANBUL BİLGİ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 447,43704 476,12453
+
+İSTANBUL ESENYURT ÜNİVERSİTESİ/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 30 0 --- ---
+
+İSTANBUL ESENYURT ÜNİVERSİTESİ/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 24 14 240,55855 300,50249
+
+İSTANBUL ESENYURT ÜNİVERSİTESİ/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 6 6 319,61744 361,36731
+
+İSTANBUL GELİŞİM ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 10 4 241,75589 254,02140
+
+İSTANBUL GELİŞİM ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 35 35 268,69156 322,80276
+
+İSTANBUL GELİŞİM ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 5 5 366,70303 380,16015
+
+İSTANBUL KEMERBURGAZ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 19 0 --- ---
+
+İSTANBUL KEMERBURGAZ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 35 2 240,91404 242,20505
+
+İSTANBUL KEMERBURGAZ ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 383,27778 418,16660
+
+İSTANBUL KÜLTÜR ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 64 64 268,61994 383,53147
+
+İSTANBUL KÜLTÜR ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 8 8 387,32098 407,35892
+
+İSTANBUL KÜLTÜR ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 8 8 415,25381 435,26590
+
+İSTANBUL MEDİPOL ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 34 34 260,48440 386,59427
+
+İSTANBUL MEDİPOL ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 399,02262 428,18027
+
+İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 5 5 296,68124 321,13858
+
+İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 20 20 330,96279 374,84836
+
+İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 5 5 384,20338 393,75568
+
+İSTANBUL ŞEHİR ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 5 5 241,15578 263,43250
+
+İSTANBUL ŞEHİR ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 40 40 272,83662 392,03512
+
+İSTANBUL ŞEHİR ÜNİVERSİTESİ/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 5 5 433,63007 439,19300
+
+İSTANBUL TEKNİK ÜNİVERSİTESİ/Bilgisayar ve Bilişim Fakültesi/Bilgisayar Mühendisliği MF-4 65 65 490,22181 523,03116
+
+İSTANBUL TEKNİK ÜNİVERSİTESİ/Bilgisayar ve Bilişim Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 50 50 502,70464 522,47393
+
+İSTANBUL TİCARET ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%25 Burslu) MF-4 2 2 248,11292 252,81440
+
+İSTANBUL TİCARET ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 33 33 258,61021 348,25864
+
+İSTANBUL TİCARET ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 4 4 410,39481 419,78694
+
+İSTANBUL TİCARET ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 1 1 249,80313 249,80313
+
+İSTANBUL ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 95 95 411,65688 442,06112
+
+İZMİR EKONOMİ ÜNİVERSİTESİ/Mühendislik ve Bilgisayar Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 20 20 267,56521 364,13842
+
+İZMİR EKONOMİ ÜNİVERSİTESİ/Mühendislik ve Bilgisayar Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 12 12 376,62047 423,95847
+
+İZMİR EKONOMİ ÜNİVERSİTESİ/Mühendislik ve Bilgisayar Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 4 4 444,32869 454,62755
+
+İZMİR EKONOMİ ÜNİVERSİTESİ/Mühendislik ve Bilgisayar Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 5 5 245,05550 257,66257
+
+İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 60 60 427,00654 453,82798
+
+KADİR HAS ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 50 50 245,67591 329,48166
+
+KADİR HAS ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 438,42405 448,58150
+
+KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 40 41 260,99929 405,88167
+
+KARABÜK ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 60 282,80396 316,19966
+
+KARABÜK ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 60 62 293,38067 328,07786
+
+KARABÜK ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 258,50857 341,98561
+
+KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 80 80 342,92775 395,70567
+
+KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 80 82 305,62384 368,50813
+
+KASTAMONU ÜNİVERSİTESİ/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 40 40 266,49047 327,44637
+
+KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 5 1 240,58865 240,58865
+
+KIRIKKALE ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 60 310,48612 386,16387
+
+KIRIKKALE ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 273,22739 370,87974
+
+KOCAELİ ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 90 90 380,21551 440,71521
+
+KOCAELİ ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 90 90 351,14699 396,72388
+
+KOÇ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 18 18 461,96137 489,61016
+
+KOÇ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 12 12 492,95606 508,83223
+
+KOÇ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 10 10 526,02753 555,48605
+
+KOÇ ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 20 20 425,07415 520,91244
+
+KTO KARATAY ÜNİVERSİTESİ (KONYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 30 21 240,10634 296,19350
+
+KTO KARATAY ÜNİVERSİTESİ (KONYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 5 5 305,90933 373,21331
+
+KTO KARATAY ÜNİVERSİTESİ (KONYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 5 5 373,49051 397,78706
+
+LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 4 0 --- ---
+
+LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 8 0 --- ---
+
+LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 4 0 --- ---
+
+LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 8 0 --- ---
+
+LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 8 4 242,73541 267,15277
+
+LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 8 4 241,43062 249,40671
+
+MALTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 17 17 271,19809 312,07349
+
+MALTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 3 3 349,22751 385,92685
+
+MALTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 2 2 418,25315 430,69029
+
+MARMARA ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 70 70 441,11776 483,48292
+
+MEF ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 10 5 253,22907 296,07105
+
+MEF ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 20 20 301,52476 382,72223
+
+MEF ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 3 3 437,30815 443,01333
+
+MEHMET AKİF ERSOY ÜNİVERSİTESİ (BURDUR)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 50 51 264,57998 319,01727
+
+MERSİN ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 61 298,36774 351,27392
+
+MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 50 51 346,86900 408,31028
+
+MUŞ ALPARSLAN ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 50 19 239,72194 320,06429
+
+NAMIK KEMAL ÜNİVERSİTESİ (TEKİRDAĞ)/Çorlu Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 292,87927 352,80692
+
+NAMIK KEMAL ÜNİVERSİTESİ (TEKİRDAĞ)/Çorlu Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 60 62 267,24318 362,40702
+
+NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)/Mühendislik ve Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 50 52 309,11086 389,20414
+
+NİŞANTAŞI ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 54 26 240,90299 301,29895
+
+NİŞANTAŞI ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 6 6 359,49564 402,76128
+
+OKAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 10 3 244,43263 271,85832
+
+OKAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 10 4 251,52827 260,62656
+
+OKAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 2 2 403,28680 404,15207
+
+OKAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 8 4 242,83783 299,41295
+
+OKAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 2 2 392,46824 404,81402
+
+OKAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 8 1 253,65637 253,65637
+
+ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 60 330,78668 391,13307
+
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 110 110 505,77322 533,33229
+
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)/ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)/ Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 25 25 314,74850 374,85069
+
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)/ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)/ Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 10 10 381,47641 405,96311
+
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)/ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)/ Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 5 5 428,59223 476,96958
+
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)/ODTU KUZEY KIBRIS KAMPUSU (KKTCGÜZELYURT)/ Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 5 5 253,76680 299,60533
+
+ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 15 15 337,21479 360,92336
+
+ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 38 38 364,60641 447,60610
+
+ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 6 6 485,34071 495,21412
+
+ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 5 5 326,56675 336,25668
+
+PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 70 70 323,27472 410,63954
+
+SAKARYA ÜNİVERSİTESİ/Bilgisayar ve Bilişim Bilimleri Fakültesi/Bilgisayar Mühendisliği MF-4 110 110 360,75215 417,12305
+
+SAKARYA ÜNİVERSİTESİ/Bilgisayar ve Bilişim Bilimleri Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 110 110 327,45431 358,80013
+
+SELÇUK ÜNİVERSİTESİ (KONYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 70 70 346,46468 407,77183
+
+SELÇUK ÜNİVERSİTESİ (KONYA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 70 72 299,38766 344,72694
+
+SELÇUK ÜNİVERSİTESİ (KONYA)/Teknoloji Fakültesi/Bilgisayar Mühendisliği MF-4 48 48 305,04501 345,79668
+
+SELÇUK ÜNİVERSİTESİ (KONYA)/Teknoloji Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 48 50 280,65999 299,06117
+
+SELÇUK ÜNİVERSİTESİ (KONYA)/Teknoloji Fakültesi/Bilgisayar Mühendisliği (M.T.O.K.) MF-4 12 12 276,86075 303,48702
+
+SELÇUK ÜNİVERSİTESİ (KONYA)/Teknoloji Fakültesi/Bilgisayar Mühendisliği (M.T.O.K.) (İÖ) MF-4 12 13 261,49942 275,45280
+
+SİİRT ÜNİVERSİTESİ/Mühendislik-Mimarlık Fakültesi/Bilgisayar Mühendisliği MF-4 50 10 246,21705 330,34446
+
+SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 70 71 298,73753 383,52644
+
+SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İÖ) MF-4 70 72 273,61074 341,89674
+
+TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 31 31 427,23123 467,22435
+
+TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 6 6 482,36798 489,48991
+
+TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 15 15 492,67458 516,07415
+
+TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Ücretli) MF-4 28 28 370,48086 416,09331
+
+TRAKYA ÜNİVERSİTESİ (EDİRNE)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 85 87 311,84710 409,05437
+
+TUNCELİ ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 40 15 239,69953 270,33941
+
+TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Almanca) MF-4 35 35 407,21715 453,06654
+
+ULUDAĞ ÜNİVERSİTESİ (BURSA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 50 50 370,30080 448,53994
+
+ULUSLARARASI ANTALYA ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 10 10 258,90289 316,43589
+
+ULUSLARARASI ANTALYA ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 17 17 321,15714 378,53954
+
+ULUSLARARASI ANTALYA ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 3 3 389,19069 397,62416
+
+ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 7 0 --- ---
+
+ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 14 4 242,43804 262,12507
+
+ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 4 0 --- ---
+
+ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 45 45 290,63346 375,99318
+
+ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 5 5 390,11370 431,23531
+
+YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%50 Burslu) MF-4 11 0 --- ---
+
+YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (%75 Burslu) MF-4 7 0 --- ---
+
+YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 11 0 --- ---
+
+YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%75 Burslu) MF-4 7 1 246,50086 246,50086
+
+YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 2 2 270,76843 294,23362
+
+YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (Tam Burslu) MF-4 2 2 251,16396 256,09957
+
+YALOVA ÜNİVERSİTESİ/Mühendislik Fakültesi/Bilgisayar Mühendisliği MF-4 60 62 304,47373 358,64747
+
+YAŞAR ÜNİVERSİTESİ (İZMİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 16 16 268,14331 321,33007
+
+YAŞAR ÜNİVERSİTESİ (İZMİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 28 28 326,15945 404,91685
+
+YAŞAR ÜNİVERSİTESİ (İZMİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 5 5 410,73296 424,73521
+
+YAŞAR ÜNİVERSİTESİ (İZMİR)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 3 3 242,70885 249,43164
+
+YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%25 Burslu) MF-4 7 7 301,12437 326,92147
+
+YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (%50 Burslu) MF-4 52 52 331,49109 427,01908
+
+YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Tam Burslu) MF-4 8 8 454,36639 478,80714
+
+YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)/Mühendislik Fakültesi/Bilgisayar Mühendisliği (İngilizce) (Ücretli) MF-4 10 10 247,04955 310,70167
+
+YILDIRIM BEYAZIT ÜNİVERSİTESİ (ANKARA)/Mühendislik ve Doğa Bilimleri Fakültesi/Bilgisayar Mühendisliği (İngilizce) MF-4 50 50 395,86670 436,97615
+
+YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)/Elektrik-Elektronik Fakültesi/Bilgisayar Mühendisliği MF-4 90 90 456,26558 489,68577
